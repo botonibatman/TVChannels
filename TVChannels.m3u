@@ -1,0 +1,257 @@
+#EXTM3U
+
+//========================================================================
+//VWS Full Dump Playlist - BPK Channels with Clearkey. Do not share this, credit me if you do.
+//========================================================================
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cignal_Logo_2018.svg/645px-Cignal_Logo_2018.svg.png",Cignal
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/3074/3074767.png",Entertainment
+
+#EXTINF:-1 tvg-id="a2z" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="Entertainment",A2Z
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
+
+#EXTINF:-1 tvg-id="one-ph" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="Entertainment",One PH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="buko" tvg-logo="https://i.imgur.com/BxQvEil.png" group-title="Entertainment",Buko
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="sari-sari" tvg-logo="https://i.imgur.com/25CGN9g.png" group-title="Entertainment",Sari-Sari
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
+
+#EXTINF:-1 tvg-id="tv5-hd" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="Entertainment",TV5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+
+#EXTINF:-1 tvg-id="lotus-macau" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="Entertainment",Lotus Macau
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+
+#EXTINF:-1 tvg-id="tvup" tvg-logo="https://i.imgur.com/OHLO5Hz.png" group-title="Entertainment",tvUP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
+
+#EXTINF:-1 tvg-id="thrill-sd" tvg-logo="https://i.imgur.com/kgqsalZ.png" group-title="Entertainment",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.imgur.com/OuaLV7f.png" group-title="Entertainment",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Entertainment",Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="hits-now" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="Entertainment",Hits Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
+
+#EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Entertainment",IBC 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
+
+#EXTINF:-1 tvg-id="true-fm-tv" tvg-logo="https://i.imgur.com/i0xetYa.png" group-title="Entertainment",TrueTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
+
+#EXTINF:-1 tvg-id="tvn-premium-hd" tvg-logo="https://i.imgur.com/qEPJE1t.png" group-title="Entertainment",TVN Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
+
+#EXTINF:-1 tvg-id="kbs-world-sd" tvg-logo="https://i.imgur.com/aFDRmtm.png" group-title="Entertainment",KBS World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
+
+#EXTINF:-1 tvg-id="tap-tv" tvg-logo="https://i.imgur.com/vDvLPda.png" group-title="Entertainment",Tap TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="global-trekker" tvg-logo="https://accion.com.ph/wp-content/uploads/2023/02/GT-Thumbnail-New.jpg" group-title="Entertainment",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapedge/default/index.mpd
+
+#EXTINF:-1 tvg-id="rock-action" tvg-logo="https://i.imgur.com/T70dbrM.png" group-title="Entertainment",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+
+#EXTINF:-1 tvg-id="rock-entertainment" tvg-logo="https://i.imgur.com/BuKajCb.png" group-title="Entertainment",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",Movies
+
+#EXTINF:-1 tvg-id="tvn-movies-pinoy" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="Movies",TVN Movies Pinoy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
+
+#EXTINF:-1 tvg-id="pbo" tvg-logo="https://i.imgur.com/r3PUF9p.png" group-title="Movies",PBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="viva-cinema" tvg-logo="https://i.imgur.com/hBb2Fh9.png" group-title="Movies",Viva Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="tagalized-movie-channel" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="Movies",TMC (Tagalized Movie Channel)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
+
+#EXTINF:-1 tvg-id="celestial-movies-pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Movies",Celestial Movies Pinoy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="tap-movies-hd" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="Movies",Tap Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/6uN52OW.png" group-title="Movies",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
+#EXTINF:-1 tvg-id="hbo-hits" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="Movies",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="Movies",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
+#EXTINF:-1 tvg-id="hbo-signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="Movies",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 tvg-id="hits-movies" tvg-logo="https://i.imgur.com/xjyDTMr.png" group-title="Movies",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd
+
+#EXTINF:-1 tvg-id="tap-action-flix-hd" tvg-logo="https://i.imgur.com/pjeTzag.png" group-title="Movies",Tap Action Flix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="Movies",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/857/857418.png",Sports
+
+#EXTINF:-1 tvg-id="nba-tv-philippines-cignal" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="Sports",NBA TV Philippines
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-id="pba-rush-hd" tvg-logo="https://i.imgur.com/Z7oMGiI.png" group-title="Sports",PBA Rush
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="one-sports-hd" tvg-logo="https://i.imgur.com/imI97L2.png" group-title="Sports",One Sports HD Cignal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="one-sports-plus" tvg-logo="https://i.imgur.com/RnDeKOj.png" group-title="Sports",One Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="uaap-varsity-channel" tvg-logo="https://i.imgur.com/POFK8tM.png" group-title="Sports",UAAP Varsity Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="tap-sports" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="Sports",TAP Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
+
+#EXTINF:-1 tvg-id="premier-sports" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="Sports",Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="premier-sports-2" tvg-logo="https://i.imgur.com/OWVR172.png" group-title="Sports",Premier Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="spotv-hd" tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="Sports",SpoTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="spotv-2-hd" tvg-logo="https://i.imgur.com/7mY1Zxg.png" group-title="Sports",SpoTV 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/3062/3062634.png",Kids
+
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://i.imgur.com/5gJTEHT.png" group-title="Kids",Animax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+
+#EXTINF:-1 tvg-id="dreamworks-hd" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="Kids",DreamWorks HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="Kids",Dreamworks Tagalog
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-1 tvg-id="moonbug-kids" tvg-logo="https://i.imgur.com/ILaPSzA.png" group-title="Kids",Moonbug Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="Kids",Cartoon Network (Cignal)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://i.imgur.com/4o5dNZA.png" group-title="Kids",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://i.imgur.com/iIVYdZP.png" group-title="Kids",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/2965/2965879.png",News
+
+#EXTINF:-1 tvg-id="ptv-4" tvg-logo="https://i.imgur.com/jRvEV4E.png" group-title="News",PTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="rptv" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/rptv%20logo%20final-02.png" group-title="News",RPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="bilyonaryo-news-channel" tvg-logo="https://i.imgur.com/FxHmXYU.png" group-title="News",Bilyonaryo Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
+
+#EXTINF:-1 tvg-id="cnn-international" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="News",CNN International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
+
+prod.akamaized.net/bpk-tv/france24/default/index.mpd
+
+#EXTINF:-1 tvg-id="tv5-monde" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="News",TV5 Monde
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
+
+#EXTINF:-1 tvg-id="one-news-hd" tvg-logo="https://i.imgur.com/25PG6TF.png" group-title="News",One News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
+
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/512/3074/3074025.png",Lifestyle
+
+#EXTINF:-1 tvg-id="lifetime-sd" tvg-logo="https://i.imgur.com/ZyqbNXn.png" group-title="Lifestyle",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
+
+group-title="Educational",DepEd Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="knowledge-channel" tvg-logo="https://i.imgur.com/4O93eBO.png" group-title="Educational",Knowledge Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
+
+#EXTM3U billed-msg="SalvadorArchives25 Property, 6-CIMATTI! "
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
